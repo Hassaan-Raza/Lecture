@@ -1,0 +1,37 @@
+[
+  {
+    "product": "Laptop",
+    "price": 1200,
+    "stock": 15,
+    "sold_this_month": 8,
+    "category": "Electronics"
+  },
+  {
+    "product": "Mouse",
+    "price": 45,
+    "stock": 80,
+    "sold_this_month": 35,
+    "category": "Accessories"
+  },
+  {
+    "product": "Monitor",
+    "price": 350,
+    "stock": 20,
+    "sold_this_month": 12,
+    "category": "Electronics"
+  },
+  {
+    "product": "Desk",
+    "price": 280,
+    "stock": 5,
+    "sold_this_month": 3,
+    "category": "Furniture"
+  },
+  {
+    "product": "Chair",
+    "price": 220,
+    "stock": 12,
+    "sold_this_month": 7,
+    "category": "Furniture"
+  }
+]

@@ -1,0 +1,9 @@
+name,age,gpa,major,credits,employed,salary
+Ali,21,3.5,CS,90,False,0
+Sara,23,3.9,DS,105,True,45000
+Umar,19,2.8,CS,72,False,0
+Fatima,24,3.7,AI,120,True,65000
+Bilal,22,3.1,SE,88,True,52000
+Zara,20,3.4,DS,96,False,0
+Hassan,25,2.6,CS,68,False,0
+Noor,21,3.8,AI,112,True,70000

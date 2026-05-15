@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-05-15T22:22:52.855502",
+    "file": "inventory.json",
+    "question": "Which product category has the highest total value in stock?",
+    "answer": "[DEMO] This is where the LLM would answer:\n'Which product category has the highest total value in stock?'\n\nBased on the dataset summary, we can see 5 rows and 5 columns. Set OPENAI_API_KEY to get real answers."
+  },
+  {
+    "timestamp": "2026-05-15T22:22:52.856487",
+    "file": "inventory.json",
+    "question": "What is the sell-through rate (sold/stock) for each product?",
+    "answer": "[DEMO] This is where the LLM would answer:\n'What is the sell-through rate (sold/stock) for each product?'\n\nBased on the dataset summary, we can see 5 rows and 5 columns. Set OPENAI_API_KEY to get real answers."
+  },
+  {
+    "timestamp": "2026-05-15T22:22:52.856997",
+    "file": "inventory.json",
+    "question": "Which items might be running low on stock relative to demand?",
+    "answer": "[DEMO] This is where the LLM would answer:\n'Which items might be running low on stock relative to demand?'\n\nBased on the dataset summary, we can see 5 rows and 5 columns. Set OPENAI_API_KEY to get real answers."
+  }
+]
